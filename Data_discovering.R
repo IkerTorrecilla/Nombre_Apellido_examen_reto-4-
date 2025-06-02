@@ -32,7 +32,10 @@ df_rdl = df %>% group_by(Area) %>% summarise(media_value = mean(RDL, na.rm = TRU
 df_rld_ordenado = arrange(df_rdl[c(5, 20, 33), ])
 
 
-
+#############################
+mnkfnkvnkvnd
+vknlnkzdvnidnk
+mwmkmkmdwmkdmk
 
 
 
