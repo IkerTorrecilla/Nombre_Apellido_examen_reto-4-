@@ -2,8 +2,7 @@ library(dplyr)
 
 df = read.csv("water-quality-data.csv")
 
-summary(df$Value)
-summary(df$MDL)
+
 summary(df$RDL)
 
 #Desviacion estandar
