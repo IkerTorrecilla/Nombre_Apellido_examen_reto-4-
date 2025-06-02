@@ -35,8 +35,8 @@ df_rld_ordenado = arrange(df_rdl[c(5, 20, 33), ])
 
 #Markel come perros
 a = 17
-b = 51
-suma = a + b
+z = 20
+suma = a + z
 
 
 
